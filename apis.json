@@ -1,0 +1,53 @@
+{
+    "name": "sonicAPI",
+    "description": "<p>Add high quality music processing to your app with the sonicAPI.com web service. sonicAPI.com offers professional grade audio technology that can easily be integrated into your web or phone app with just a few lines of code.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/sonicapi-logo.png",
+    "tags": [
+        "effects",
+        "have api",
+        "music"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sonicapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "sonicAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/sonicapi-logo.png",
+            "humanURL": "http:\/\/www.sonicAPI.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sonicapi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sonicAPI.com"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.sonicapi.com\/docs"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.sonicapi.com\/pricing"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "http:\/\/www.sonicapi.com\/terms-of-service"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sonic_API"
+        }
+    ]
+}
