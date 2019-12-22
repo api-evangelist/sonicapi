@@ -7,8 +7,8 @@
         "have api",
         "music"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sonicapi\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,13 +22,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sonicapi-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sonicapi\/master\/sonicapi-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sonicapi\/master\/sonicapi-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/www.sonicAPI.com"
